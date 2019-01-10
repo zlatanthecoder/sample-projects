@@ -6,7 +6,7 @@
 zuul:
   routes:
     ms-state-api:
-      path: /stateapi/**
-      url: http://localhost:8080/stateapi
+      path: /api/state/**
+      url: http://localhost:8080/api/state
       
-#above configuration means all requests from the UI that starts with “/stateapi/” will be routed to our ms-state-api Resource server at http://localhost:8080/stateapi/      
+#above configuration means all requests from the UI that starts with “/api/state/” will be routed to our ms-state-api Resource server at http://localhost:8080/api/state/      

@@ -16,8 +16,8 @@ public class MsEdgeZuulApplication {
 	
 		/*
 		 * The path for accessing the state api are
-		 * http://localhost:9000/stateapi/state/{stateCode}/capital
-		 * http://localhost:9000/stateapi/state/{stateCode}
+		 * http://localhost:9000/api/state/{stateCode}/capital
+		 * http://localhost:9000/api/state/{stateCode}
 		 */
 	
 	}

@@ -22,10 +22,11 @@ public class StateController {
 	StateService stateService;
 	
 	
-	@RequestMapping("state/{stateCode}")
+	@RequestMapping("{stateCode}")
 	public StateResponse getState(@PathVariable("stateCode") String stateCode) {
 		//http://localhost:8080/state/MP  --without setting the server context property
 		//http://localhost:8080/stateapi/state/AP/
+		//http://localhost:8080/api/state/MP --final url check server context property
 		/*
 		 * RestTemplate class will use it (via a message converter e.g. HttpMessageConverter to convert the incoming JSON response into a Result object.
 		 * https://www.baeldung.com/rest-template
@@ -37,10 +38,11 @@ public class StateController {
 	}
 	
 	
-	@RequestMapping("state/{stateCode}/capital")
+	@RequestMapping("{stateCode}/capital")
 	public String getCapital(@PathVariable("stateCode") String stateCode) {
 		//http://localhost:8080/state/UP/capital  --without setting the server context property
 		//http://localhost:8080/stateapi/state/AP/capital
+		//http://localhost:8080/api/state/UP/capital --final url check server context property
 		
 		String url="http://services.groupkt.com/state/get/IND/"+stateCode;
 		StateResponse stateResponse = restTemplate.getForObject(url, StateResponse.class);

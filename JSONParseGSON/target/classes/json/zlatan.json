@@ -1,0 +1,18 @@
+{
+	"shirtNumber": 9,
+	"name": "Zlatan",
+	"retired": false,
+	"address": {
+		"street": "Sweden Street",
+		"city": "Sweden",
+		"zipcode": 201301	
+	 },
+	"phoneNumbers": [123, 456, 789],
+	"role": "Striker",
+	"clubs": ["Manchester United", "LA Galaxy", "Barcelona", "Intermilan", "PSG", "Juventus"],
+	"goals": {
+		"club": 400,
+		"country": 100,
+		"total": 500		
+	 }
+}

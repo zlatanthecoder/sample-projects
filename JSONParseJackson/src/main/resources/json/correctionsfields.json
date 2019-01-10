@@ -1,0 +1,685 @@
+{
+ "correctionFields": {
+    "rcdIndicationProducts": {
+      "fieldName": "rcdIndicationProducts",
+      "fieldTitle": "54 - Indication of Products",
+      "selectedOption": true,
+      "currentData": {
+        "indications": [
+          {
+            "language": {
+              "key": "DE",
+              "text": "German (DE)"
+            },
+            "status": {
+              "key": 0,
+              "text": "Original"
+            },
+            "indication": "Schneidebretter",
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912217",
+            "identifier": "5912217",
+            "DT_RowId": "5912217"
+          },
+          {
+            "language": {
+              "key": "LV",
+              "text": "Latvian (LV)"
+            },
+            "indication": "Maizes dēļi",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912212",
+            "identifier": "5912212",
+            "DT_RowId": "5912212"
+          },
+          {
+            "language": {
+              "key": "LT",
+              "text": "Lithuanian (LT)"
+            },
+            "indication": "Stalo lentelės",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912200",
+            "identifier": "5912200",
+            "DT_RowId": "5912200"
+          },
+          {
+            "language": {
+              "key": "EL",
+              "text": "Greek (EL)"
+            },
+            "indication": "Επιτραπέζιες σανίδες κοπής κρέατος",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912210",
+            "identifier": "5912210",
+            "DT_RowId": "5912210"
+          },
+          {
+            "language": {
+              "key": "CS",
+              "text": "Czech (CS)"
+            },
+            "indication": "Servírovací prkénka",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912205",
+            "identifier": "5912205",
+            "DT_RowId": "5912205"
+          },
+          {
+            "language": {
+              "key": "HU",
+              "text": "Hungarian (HU)"
+            },
+            "indication": "Asztali szeletelő-/tálalódeszkák",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912206",
+            "identifier": "5912206",
+            "DT_RowId": "5912206"
+          },
+          {
+            "language": {
+              "key": "PT",
+              "text": "Portuguese (PT)"
+            },
+            "indication": "Tábuas de cozinha para trinchar",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912204",
+            "identifier": "5912204",
+            "DT_RowId": "5912204"
+          },
+          {
+            "language": {
+              "key": "RO",
+              "text": "Romanian (RO)"
+            },
+            "indication": "Fund pentru masă",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912198",
+            "identifier": "5912198",
+            "DT_RowId": "5912198"
+          },
+          {
+            "language": {
+              "key": "EN",
+              "text": "English (EN)"
+            },
+            "indication": "Table trenchers",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912202",
+            "identifier": "5912202",
+            "DT_RowId": "5912202"
+          },
+          {
+            "language": {
+              "key": "BG",
+              "text": "Bulgarian (BG)"
+            },
+            "indication": "Дъски за рязане за маса",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912199",
+            "identifier": "5912199",
+            "DT_RowId": "5912199"
+          },
+          {
+            "language": {
+              "key": "NL",
+              "text": "Dutch (NL)"
+            },
+            "indication": "Snijplanken",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912209",
+            "identifier": "5912209",
+            "DT_RowId": "5912209"
+          },
+          {
+            "language": {
+              "key": "SK",
+              "text": "Slovak (SK)"
+            },
+            "indication": "Kuchynské dosky na jedlo",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912214",
+            "identifier": "5912214",
+            "DT_RowId": "5912214"
+          },
+          {
+            "language": {
+              "key": "PL",
+              "text": "Polish (PL)"
+            },
+            "indication": "Tace stołowe",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912201",
+            "identifier": "5912201",
+            "DT_RowId": "5912201"
+          },
+          {
+            "language": {
+              "key": "SV",
+              "text": "Swedish (SV)"
+            },
+            "indication": "Skärbrädor",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912196",
+            "identifier": "5912196",
+            "DT_RowId": "5912196"
+          },
+          {
+            "language": {
+              "key": "ET",
+              "text": "Estonian (ET)"
+            },
+            "indication": "Lõikelauad (lauas kasutamiseks)",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912216",
+            "identifier": "5912216",
+            "DT_RowId": "5912216"
+          },
+          {
+            "language": {
+              "key": "IT",
+              "text": "Italian (IT)"
+            },
+            "indication": "Taglieri",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912208",
+            "identifier": "5912208",
+            "DT_RowId": "5912208"
+          },
+          {
+            "language": {
+              "key": "MT",
+              "text": "Maltese (MT)"
+            },
+            "indication": "Mwejjed f’għamla ta’ platt kbir għal qtugħ jew tqassim ta’ l-ikel",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912197",
+            "identifier": "5912197",
+            "DT_RowId": "5912197"
+          },
+          {
+            "language": {
+              "key": "FR",
+              "text": "French (FR)"
+            },
+            "indication": "Planches a decouper",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912203",
+            "identifier": "5912203",
+            "DT_RowId": "5912203"
+          },
+          {
+            "language": {
+              "key": "FI",
+              "text": "Finnish (FI)"
+            },
+            "indication": "Leikkuulaudat",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912215",
+            "identifier": "5912215",
+            "DT_RowId": "5912215"
+          },
+          {
+            "language": {
+              "key": "SL",
+              "text": "Slovenian (SL)"
+            },
+            "indication": "Namizne deske",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912211",
+            "identifier": "5912211",
+            "DT_RowId": "5912211"
+          },
+          {
+            "language": {
+              "key": "ES",
+              "text": "Spanish (ES)"
+            },
+            "indication": "Tablas de cortar",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912213",
+            "identifier": "5912213",
+            "DT_RowId": "5912213"
+          },
+          {
+            "language": {
+              "key": "DA",
+              "text": "Danish (DA)"
+            },
+            "indication": "Skærebrætter",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912207",
+            "identifier": "5912207",
+            "DT_RowId": "5912207"
+          }
+        ],
+        "indicationCorresponds": true
+      },
+      "newData": {
+        "indications": [
+          {
+            "language": {
+              "key": "DE",
+              "text": "German (DE)"
+            },
+            "indication": "Schneidebretter",
+            "status": {
+              "key": 0,
+              "text": "Original"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912217",
+            "identifier": "5912217",
+            "DT_RowId": "5912217"
+          },
+          {
+            "language": {
+              "key": "LV",
+              "text": "Latvian (LV)"
+            },
+            "indication": "Maizes dēļi",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912212",
+            "identifier": "5912212",
+            "DT_RowId": "5912212"
+          },
+          {
+            "language": {
+              "key": "LT",
+              "text": "Lithuanian (LT)"
+            },
+            "indication": "Stalo lentelės",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912200",
+            "identifier": "5912200",
+            "DT_RowId": "5912200"
+          },
+          {
+            "language": {
+              "key": "EL",
+              "text": "Greek (EL)"
+            },
+            "indication": "Επιτραπέζιες σανίδες κοπής κρέατος",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912210",
+            "identifier": "5912210",
+            "DT_RowId": "5912210"
+          },
+          {
+            "language": {
+              "key": "CS",
+              "text": "Czech (CS)"
+            },
+            "indication": "Servírovací prkénka",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912205",
+            "identifier": "5912205",
+            "DT_RowId": "5912205"
+          },
+          {
+            "language": {
+              "key": "HU",
+              "text": "Hungarian (HU)"
+            },
+            "indication": "Asztali szeletelő-/tálalódeszkák",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912206",
+            "identifier": "5912206",
+            "DT_RowId": "5912206"
+          },
+          {
+            "language": {
+              "key": "PT",
+              "text": "Portuguese (PT)"
+            },
+            "indication": "Tábuas de cozinha para trinchar",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912204",
+            "identifier": "5912204",
+            "DT_RowId": "5912204"
+          },
+          {
+            "language": {
+              "key": "RO",
+              "text": "Romanian (RO)"
+            },
+            "indication": "Fund pentru masă",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912198",
+            "identifier": "5912198",
+            "DT_RowId": "5912198"
+          },
+          {
+            "language": {
+              "key": "EN",
+              "text": "English (EN)"
+            },
+            "indication": "Table trenchers1",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912202",
+            "identifier": "5912202",
+            "DT_RowId": "5912202"
+          },
+          {
+            "language": {
+              "key": "BG",
+              "text": "Bulgarian (BG)"
+            },
+            "indication": "Дъски за рязане за маса",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912199",
+            "identifier": "5912199",
+            "DT_RowId": "5912199"
+          },
+          {
+            "language": {
+              "key": "NL",
+              "text": "Dutch (NL)"
+            },
+            "indication": "Snijplanken",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912209",
+            "identifier": "5912209",
+            "DT_RowId": "5912209"
+          },
+          {
+            "language": {
+              "key": "SK",
+              "text": "Slovak (SK)"
+            },
+            "indication": "Kuchynské dosky na jedlo",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912214",
+            "identifier": "5912214",
+            "DT_RowId": "5912214"
+          },
+          {
+            "language": {
+              "key": "PL",
+              "text": "Polish (PL)"
+            },
+            "indication": "Tace stołowe",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912201",
+            "identifier": "5912201",
+            "DT_RowId": "5912201"
+          },
+          {
+            "language": {
+              "key": "SV",
+              "text": "Swedish (SV)"
+            },
+            "indication": "Skärbrädor",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912196",
+            "identifier": "5912196",
+            "DT_RowId": "5912196"
+          },
+          {
+            "language": {
+              "key": "ET",
+              "text": "Estonian (ET)"
+            },
+            "indication": "Lõikelauad (lauas kasutamiseks)",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912216",
+            "identifier": "5912216",
+            "DT_RowId": "5912216"
+          },
+          {
+            "language": {
+              "key": "IT",
+              "text": "Italian (IT)"
+            },
+            "indication": "Taglieri",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912208",
+            "identifier": "5912208",
+            "DT_RowId": "5912208"
+          },
+          {
+            "language": {
+              "key": "MT",
+              "text": "Maltese (MT)"
+            },
+            "indication": "Mwejjed f’għamla ta’ platt kbir għal qtugħ jew tqassim ta’ l-ikel",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912197",
+            "identifier": "5912197",
+            "DT_RowId": "5912197"
+          },
+          {
+            "language": {
+              "key": "FR",
+              "text": "French (FR)"
+            },
+            "indication": "Planches a decouper",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912203",
+            "identifier": "5912203",
+            "DT_RowId": "5912203"
+          },
+          {
+            "language": {
+              "key": "FI",
+              "text": "Finnish (FI)"
+            },
+            "indication": "Leikkuulaudat",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912215",
+            "identifier": "5912215",
+            "DT_RowId": "5912215"
+          },
+          {
+            "language": {
+              "key": "SL",
+              "text": "Slovenian (SL)"
+            },
+            "indication": "Namizne deske",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912211",
+            "identifier": "5912211",
+            "DT_RowId": "5912211"
+          },
+          {
+            "language": {
+              "key": "ES",
+              "text": "Spanish (ES)"
+            },
+            "indication": "Tablas de cortar",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912213",
+            "identifier": "5912213",
+            "DT_RowId": "5912213"
+          },
+          {
+            "language": {
+              "key": "DA",
+              "text": "Danish (DA)"
+            },
+            "indication": "Skærebrætter",
+            "status": {
+              "key": 7,
+              "text": "Eurolocarno"
+            },
+            "statusDate": 1176760800000,
+            "indicationOfProductID": "5912207",
+            "identifier": "5912207",
+            "DT_RowId": "5912207"
+          }
+        ],
+        "indicationCorresponds": true
+      },
+      "inid": 54,
+      "messages": null,
+      "key": "rcdIndicationProducts"
+    }
+      },
+  "modifiedSections": [
+    "CorrectionFields"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+	"shirtNumber": 1,
+	"name": "David De Gea",
+	"retired": false,
+	"address": {
+		"street": "Madrid Street",
+		"city": "Spain",
+		"zipcode": 284003
+	},
+	"phoneNumbers": [
+		987654,
+		123456,
+		987123
+	],
+	"role": "GoalKeeper",
+	"clubs": [
+		"Atletico Madrid",
+		"Manchester United"
+	],
+	"goals": {
+		"country": 20,
+		"total": 120,
+		"club": 100
+	}
+}

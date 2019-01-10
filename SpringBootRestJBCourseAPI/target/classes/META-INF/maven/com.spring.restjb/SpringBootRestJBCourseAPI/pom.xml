@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.spring.restjb</groupId>
+  <artifactId>SpringBootRestJBCourseAPI</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <description>Sample Course API using Spring Boot Rest JB through List</description>
+  
+  <parent> <!-- this means our project is the child of this project so our project inherits all the opinionated configurations from the parent -->
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId> <!-- this project contains that opinionated set of maven configurations -->
+		<version>2.1.1.RELEASE</version>
+  </parent>
+  
+  <dependencies>
+  		<dependency>
+  		    <groupId>org.springframework.boot</groupId>
+    		<artifactId>spring-boot-starter-web</artifactId>
+  		</dependency>
+  </dependencies>
+  
+  <!-- if want some other jdk version 
+  <properties>
+  		<java.properties>1.8</java.properties>
+  </properties>
+  -->
+</project>
